@@ -320,7 +320,7 @@ onUnmounted(() => {
       <main class="flex-1 flex relative z-10 overflow-hidden w-full h-full" :class="activeNav === 0 ? 'px-8 gap-4 pb-[90px] mt-2' : 'pb-[86px] bg-[#071633]'">
         <!-- Main Dashboard View (Default - Home) -->
         <template v-if="activeNav === 0">
-          <section class="w-[540px] flex flex-col gap-5 shrink-0 h-full">
+          <section class="w-[503px] flex flex-col gap-5 shrink-0 h-full">
             <div class="card flex-[0.8] flex flex-col p-4">
               <div class="flex justify-between items-center mb-4">
                 <div class="text-lg font-medium tracking-wide text-[#5bc0ff]">作业信息统计</div>
@@ -903,7 +903,7 @@ onUnmounted(() => {
              </div>
           </section>
 
-          <section class="w-[540px] flex flex-col gap-5 shrink-0 h-full">
+          <section class="w-[503px] flex flex-col gap-5 shrink-0 h-full">
             <div class="card flex-1 flex flex-col p-4">
               <div class="flex justify-between items-center mb-4">
                 <div class="text-lg font-medium tracking-wide text-[#5bc0ff]">作业需求分析</div>
