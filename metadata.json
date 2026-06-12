@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 国省一体化平台",
+  "description": "国省一体化大数据平台前端展示界面",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

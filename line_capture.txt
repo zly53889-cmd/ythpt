@@ -1,0 +1,2 @@
+                    <!-- Left: PDF Snapshot -->
+                    <div class="w-[45%] border border-[#275b8c]/60 bg-[#0a1e45]/50 flex items-center justify-center overflow-hidden rounded relative p-2 shadow-[inset_0_0_15px_rgba(39,91,140,0.3)]">
